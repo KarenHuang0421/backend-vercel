@@ -1,7 +1,7 @@
 {
   "name": "express-rest-api-template",
   "version": "0.0.0",
-  "private": true,
+  "main": "index.js",
   "engines": {
     "node": "14.x"
   },
